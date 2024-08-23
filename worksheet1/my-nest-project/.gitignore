@@ -48,3 +48,5 @@ build/config\.gypi
 
 .npmrc
 pnpm-lock.yaml
+
+../worksheet1/my-nest-project/dist/
